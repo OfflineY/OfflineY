@@ -2,7 +2,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Offline2008&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Offline2008)](https://github.com/Offline2008/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Offline2008&layout=compact)](https://github.com/Offline2008/github-readme-stats)
 
 <!--
 **Offline2008/Offline2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
