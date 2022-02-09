@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Offline2008&show_icons=true&count_private=true)
+
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=alexcui03&layout=compact&show_icons=true&exclude_repo=ClipCC,Offline2008.github.io,eide-template-stm32f103c6tx&hide=makefile,qmake,cmake,batchfile&langs_count=10)
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Offline2008&layout=compact&show_icons=true)
+
 <!--
 **Offline2008/Offline2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
