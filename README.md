@@ -4,6 +4,6 @@
 <h2>Hi there 👋</h2>
 <li>🎯 常用语言 Js/Go</li>
 <li>😥 什么都想学什么都只懂一点</li>
-<li>🤔 正在学习 Go/Js/C++/Python/Rust</li>
+<li>🤔 正在学习 C/C++/Go/Js/Python</li>
 
 [和我取得联系？](https://github.com/OfflineY/OfflineY/issues)
