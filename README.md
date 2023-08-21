@@ -6,5 +6,5 @@
 <details>
 <summary>GitHub stats</summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfflineY&layout=compact&hide=css,html"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfflineY&layout=compact&hide=css,html,CMake"/>
 </details>
