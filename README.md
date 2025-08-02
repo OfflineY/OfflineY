@@ -1,7 +1,5 @@
 # Hi there 👋
 
-🤔 Learning some **programming languages**...
-
 <a href="https://github.com/OfflineY/OfflineY/issues">🐛 Contact me</a>  |  <a href="https://yuanyb.link/">🌐 Website</a>
 
 <details>
